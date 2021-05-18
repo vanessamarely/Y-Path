@@ -1,8 +1,7 @@
 # My-Path
 
----
-Descripción: >-
-  My-Path, es un espacio donde se tretende brindar un espacio donde podrás aprender ciertos conceptos que te permitirán crear un camino en el gran mundo del desarrollo Web. ---  
+
+My-Path, es un espacio donde se tretende brindar un espacio donde podrás aprender ciertos conceptos que te permitirán crear un camino en el gran mundo del desarrollo Web.   
 
 
 # Bienvenid@s a My-Path
